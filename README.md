@@ -24,6 +24,8 @@ htdocs/
 - PHP 7.4+
 - MySQL (comes with XAMPP)
 - Git (optional, for cloning/forking)
+- How to access MySQL with skip-grant-tables look here: https://www.youtube.com/watch?v=LKE1G4sinBM/ 
+- How to enable mail function look here: https://www.youtube.com/watch?v=0zeOjnHJupw
 
 ## 🚀 Installation Instructions
 
