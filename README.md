@@ -68,6 +68,8 @@ C:\xampp\htdocs\php\FYP_Azzstornish_Shoe_Website\
    choose finalproject( or your database name)
 6. Scroll to the bottom and click go
 
+---
+
 ### 4. Start XAMPP
 
 - Launch **XAMPP Control Panel**
